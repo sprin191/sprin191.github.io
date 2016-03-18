@@ -21,6 +21,10 @@ header h1{
     font-family: 'Questrial', sans-serif;
 }
 
+hr {
+    color: #d3d3d3;	
+}
+
 header p{
     text-align:left;
     font-family: 'Questrial', sans-serif;
