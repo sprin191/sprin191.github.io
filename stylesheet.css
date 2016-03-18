@@ -10,6 +10,7 @@ body{
     max-height: 290px;
     padding: 1px;
     border: 1px solid #021a40;
+    margin: 10px;
     transform:rotate(4deg);
 }
 
