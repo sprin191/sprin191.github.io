@@ -18,7 +18,7 @@ header h1{
     text-align:left;
     line-height: 10px;
     padding-top: 23px;
-    font-family: 'Questrial', sans-serif;
+    font-family: Questrial, sans-serif;
 }
 
 hr {
@@ -27,29 +27,29 @@ hr {
 
 header p{
     text-align:left;
-    font-family: 'Questrial', sans-serif;
+    font-family: Questrial, sans-serif;
 }
 
 .education h4{
-	font-family: 'Questrial', sans-serif;
+	font-family: Questrial, sans-serif;
 	letter-spacing: 1.5px;
 }
 .education p{
-	font-family: 'Questrial', sans-serif;
+	font-family: Questrial, sans-serif;
 	line-height: 15px;
 }
 
 .experience h4{
-	font-family: 'Questrial', sans-serif;
+	font-family: Questrial, sans-serif;
 	letter-spacing: 1.5px;
 }
 
 .experience p{
-	font-family: 'Questrial', sans-serif;
+	font-family: Questrial, sans-serif;
 	font-weight: bold;
 	line-height: 20px;
 }
 .experience li{
-	font-family: 'Questrial', sans-serif;
+	font-family: Questrial, sans-serif;
 	line-height: 20px;
 }
