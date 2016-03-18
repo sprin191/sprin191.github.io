@@ -30,7 +30,7 @@ header p{
     font-family: Questrial, sans-serif;
 }
 
-.education h4{
+.education h2{
 	font-family: Questrial, sans-serif;
 	letter-spacing: 1.5px;
 }
@@ -39,7 +39,7 @@ header p{
 	line-height: 15px;
 }
 
-.experience h4{
+.experience h2{
 	font-family: Questrial, sans-serif;
 	letter-spacing: 1.5px;
 }
