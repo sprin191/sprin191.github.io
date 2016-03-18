@@ -1,10 +1,3 @@
-html, body, main, section, head, header, img, h1, h2,
- p, ul, li, hr {
-   padding: 0;
-   border: 0;
-   margin: 0;
-}
-
 body{
     margin-right: 200px;
     margin-left: 200px;
