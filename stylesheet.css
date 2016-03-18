@@ -6,14 +6,11 @@ body{
 .profile{
     height: auto; 
     width: auto; 
-    max-width: 290px; 
-    max-height: 290px;
-}
-
-img {
-   padding:1px;
-   border:1px solid #021a40;
-   transform: rotate(4deg);
+    width: 290px; 
+    height: 290px;
+    padding:1px;
+    border:1px solid #021a40;
+    transform: rotate(4deg);
 }
 
 .header h1{
