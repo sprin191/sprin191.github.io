@@ -8,12 +8,9 @@ body{
     width: auto; 
     max-width: 290px; 
     max-height: 290px;
-}
-
-img {
-   padding: 1px;
-   border: 1px solid #021a40;
-   transform:rotate(4deg);
+    padding: 1px;
+    border: 1px solid #021a40;
+    transform:rotate(4deg);
 }
 
 header h1{
