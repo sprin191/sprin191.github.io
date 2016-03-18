@@ -16,14 +16,14 @@ img {
    transform:rotate(4deg);
 }
 
-.header h1{
+header h1{
     text-align:left;
     line-height: 10px;
     padding-top: 23px;
     font-family: 'Questrial', sans-serif;
 }
 
-.header p{
+header p{
     text-align:left;
     font-family: 'Questrial', sans-serif;
 }
