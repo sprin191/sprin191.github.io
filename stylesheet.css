@@ -36,10 +36,9 @@ main h2 {
 	line-height: 15px;
 }
 
-.experience p{
-	font-weight: bold;
+.experience {
 	line-height: 20px;
 }
-.experience li{
-	line-height: 20px;
+.experience p{
+	font-weight: bold;
 }
