@@ -1,6 +1,7 @@
 body{
     margin-right: 200px;
     margin-left: 200px;
+    font-family: Questrial, sans-serif;
 }
 
 .profile{
@@ -18,38 +19,27 @@ header h1{
     text-align:left;
     line-height: 10px;
     padding-top: 23px;
-    font-family: Questrial, sans-serif;
+}
+
+header p{
+    text-align:left;
 }
 
 hr {
     color: #A6A6A6;	
 }
 
-header p{
-    text-align:left;
-    font-family: Questrial, sans-serif;
-}
-
-.education h2{
-	font-family: Questrial, sans-serif;
+main h2 {
 	letter-spacing: 1.5px;
 }
 .education p{
-	font-family: Questrial, sans-serif;
 	line-height: 15px;
 }
 
-.experience h2{
-	font-family: Questrial, sans-serif;
-	letter-spacing: 1.5px;
-}
-
 .experience p{
-	font-family: Questrial, sans-serif;
 	font-weight: bold;
 	line-height: 20px;
 }
 .experience li{
-	font-family: Questrial, sans-serif;
 	line-height: 20px;
 }
