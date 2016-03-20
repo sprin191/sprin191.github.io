@@ -32,6 +32,7 @@ hr {
 main h2 {
 	letter-spacing: 1.5px;
 }
+
 .education p{
 	line-height: 15px;
 }
@@ -39,6 +40,7 @@ main h2 {
 .experience {
 	line-height: 20px;
 }
+
 .experience p{
 	font-weight: bold;
 }
