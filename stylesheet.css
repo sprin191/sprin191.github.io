@@ -6,8 +6,7 @@ html, body, h1, h2,
 }
 
 body{
-    margin-right: 200px;
-    margin-left: 200px;
+    padding: 20px 20px 20px 20px;
     font-family: Questrial, sans-serif;
 }
 
@@ -24,8 +23,9 @@ body{
 
 header h1{
     text-align:left;
-    line-height: 10px;
-    padding-top: 23px;
+    margin: 10px 0 15px 0;
+    line-height: 30px;
+    padding-top: 50px;
 }
 
 header p{
