@@ -13,7 +13,7 @@ body{
     border: 1px solid #021a40;
     margin: 15px;
     transform: rotate(4deg);
-    align: right;
+    float: right;
 }
 
 header h1{
